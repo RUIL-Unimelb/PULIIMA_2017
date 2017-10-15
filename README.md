@@ -17,10 +17,20 @@ These are the materials for today's workshop. A link to the [presentation](https
 - The [Roland (Edirol) R-09](https://static.roland.com/assets/media/pdf/r_09_brochure.pdf) (**Discontinued**).
 
 ## Software
-
+PC/Mac
 - [Audacity](http://www.audacityteam.org/home/).
 - [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/). Transcription Software.
 
+### Smart Phone Recorders 
+Note: These are just suggestions rather than endorsements. We have not fully tested these.
+
+#### Android
+[Audio Recorder, By Sony Mobile Communications](https://play.google.com/store/apps/details?id=com.sonymobile.androidapp.audiorecorder&hl=en) - Good reviews but may not record .wav files
+[Easy Voice Recorder](https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&hl=en) - records .wav files
+
+##### iOS
+[PCM Recorder Lite](https://itunes.apple.com/us/app/pcm-recorder-lite/id439572045?mt=8) - can record .wav files at many sample rates 
+[Voice Recorder Pro](https://itunes.apple.com/us/app/voice-record-pro/id546983235?mt=8)
 ## Archives
 
 - [ELAR](https://www.soas.ac.uk/elar/)
