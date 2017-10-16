@@ -8,13 +8,20 @@ These are the materials for today's workshop. A link to the [presentation](https
 - Hands on session with audio recorders (Zoom H5).
 - Practice making some recordings.
 - Evaluating the recordings.
+- Can I use a smart phone to record?
 - How can we keep recordings safe? (Backup Archiving)
 - What about other media?
 
 ## Materials
 
-- Here is a link to the manual for the [Zoom H5 recorder](https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/E_H5_0.pdf)(pdf).
+- Here is a link to the manual for the [Zoom H5 recorder](https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/E_H5_0.pdf)(pdf).  
 - The [Roland (Edirol) R-09](https://static.roland.com/assets/media/pdf/r_09_brochure.pdf) (**Discontinued**).
+
+## Checklist for setting up your recorder before a recording session.
+Each recorder is different.
+
+## Checklist for when you are ready to record
+
 
 ## Software
 PC/Mac
