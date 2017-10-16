@@ -35,6 +35,11 @@ Check these settings (before you record).
 - Set the levels with the speaker in front of the microphone - set using the *input* volume not the output volume (this just changes what is in your headphones).
 - Use headphones if you have them.
 - Remember to press record!
+- Remember to record metadata like the date and who is present at the beginning of the recording (also location or information such as which languages are heard).
+
+## Group Activity 
+
+Record some examples of language in different recording environments. Follow this link to a [worksheet](https://github.com/RUIL-Unimelb/PULIIMA_2017/blob/master/2017_TaskSheet.pdf) that gives some suggestions for different situations. Spend about 30mins on the task and then we will come back and look the files in Audacity (see link below).
 
 ## Software
 PC/Mac
